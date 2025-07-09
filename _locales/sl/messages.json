@@ -1,0 +1,7 @@
+{
+    "extName": { "message": "Google Maps Extractor", "description": "" },
+    "extDesc": {
+        "message": "Extract Google Map data to Excel/CSV formats(include address,email and phone data) with one click.",
+        "description": ""
+    }
+}

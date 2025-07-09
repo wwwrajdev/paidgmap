@@ -1,0 +1,7 @@
+{
+    "extName": { "message": "GMAPS Extractor", "description": "" },
+    "extDesc": {
+        "message": "A scraping tool for map business leads, one click to extract data from Google Maps, includes address, phone number.",
+        "description": ""
+    }
+}
